@@ -1,1 +1,3 @@
 .ipynb_checkpoints
+# Don't track cotent of these folders
+fasttext-crawl-300d-2m/
